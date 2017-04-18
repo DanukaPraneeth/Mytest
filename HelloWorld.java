@@ -3,10 +3,7 @@ public class HelloWorld {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hello World");
-		System.out.print("wso2telco");
-		System.out.println("updated");
-		System.out.println("update 2");
+		System.out.println("Hello world in the branch");
 	}
 
 }
