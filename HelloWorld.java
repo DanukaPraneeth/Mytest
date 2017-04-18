@@ -5,6 +5,7 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World");
 		System.out.print("wso2telco");
+		System.out.println("updated");
 	}
 
 }
