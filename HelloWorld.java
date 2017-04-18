@@ -6,6 +6,7 @@ public class HelloWorld {
 		System.out.println("Hello World");
 		System.out.print("wso2telco");
 		System.out.println("updated");
+		System.out.println("update 2");
 	}
 
 }
