@@ -11,6 +11,7 @@ public class HelloWorld {
                 System.out.println("Another commit");
                 System.out.println("6th line");
                 System.out.println("7th line");
+//*********************************//		
                 System.out.println("Stash commit");
 
 	}
